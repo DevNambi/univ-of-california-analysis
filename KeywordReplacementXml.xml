@@ -1,0 +1,155 @@
+<!-- Replace the original words with the replacement (repl) word, starting with the rank = 1 and ending with rank = 999 --> 
+<words>
+<word rank="1" original=" CLIN " repl=" Clinical " />
+
+<word rank="100" original=" ACAD YR " repl=" Academic Year " />
+<word rank="100" original=" AST " repl=" Assistant " />
+<word rank="100" original=" BLANK " repl=" " />
+<word rank="100" original=" ASST " repl=" Assistant " />
+<word rank="100" original=" ASSOC " repl=" Associate " />
+<word rank="100" original=" PROF " repl=" Professor " />
+<word rank="100" original=" MGR " repl=" Manager" />
+<word rank="100" original=" DIR " repl=" Director " />
+<word rank="100" original=" -AY " repl=" - AcademicYear " />
+<word rank="100" original=" - AY " repl=" - AcademicYear " />
+<word rank="100" original=" - A Y " repl=" - AcademicYear " />
+<word rank="100" original=" -A Y " repl=" - AcademicYear " />
+<word rank="101" original=" ACADEMIC YR " repl=" AcademicYear " />
+<word rank="100" original=" ASO " repl="Associate " />
+<word rank="100" original=" ANL " repl=" Analyst " />
+<word rank="100" original=" STDNT " repl=" Student " />
+<word rank="100" original=" CLIN " repl=" Clinical " />
+<word rank="100" original=" PROF-" repl= "Professor " />
+<word rank="100" original=" COORD " repl=" Coordinator " />
+<word rank="100" original=" ADMIN " repl=" Administrative " />
+<word rank="100" original=" SUPV " repl=" Supervisor " />
+<word rank="100" original=" SUPVR " repl=" Supervisor " />
+<word rank="100" original=" ADMIN. " repl=" Administrative " />
+<word rank="100" original=" SR " repl=" Senior " />
+<word rank="100" original=" - Employee " repl=" " />
+<word rank="100" original=" GENCOMP " repl=" Salary " />
+<word rank="100" original=" HCOMP " repl=" PaidHourly " />
+<word rank="100" original=" HS " repl=" Health Science " />
+<word rank="100" original=" GRAD " repl=" Graduate " />
+<word rank="100" original=" PHYS " repl=" Physician " />
+<word rank="100" original=" ASSO " repl=" Associate " />
+<word rank="100" original=" PRIN " repl=" Principal " />
+<word rank="100" original=" REM " repl=" Reimbursement " />
+<word rank="100" original=" PER DIEM " repl=" PerDiem " />
+<word rank="100" original=" MEDCOMP " repl=" PaidFromMedicalFees" />
+<word rank="100" original=" TEACHG " repl=" Teaching " />
+<word rank="100" original=" AFF. " repl=" Affairs " />
+<word rank="100" original=" ADJ " repl=" Adjunct " />
+<word rank="100" original=" SPEC. " repl=" Specialist " />
+<word rank="101" original=" SPEC " repl=" Specialist " />
+<word rank="100" original=" PROGR " repl=" Programmer " />
+<word rank="100" original=" ASC " repl=" Associate " />
+<word rank="100" original=" CHAN " repl=" Chancellor " />
+<word rank="100" original=" RESID " repl=" Resident" />
+<word rank="100" original=" STDT " repl=" Student " />
+<word rank="100" original=" OFCR " repl=" Officer " />
+<word rank="100" original=" REPR " repl=" Representative " />
+<word rank="100" original=" OPR " repl=" Operator " />
+<word rank="100" original=" WKER " repl=" Worker " />
+<word rank="100" original=" LECT " repl=" Lecturer " />
+<word rank="100" original=" SR.LECT. " repl=" Senior Lecturer " />
+<word rank="100" original=" SR.LECT " repl=" Senior Lecturer " />
+<word rank="100" original=" PROJ " repl=" Project " />
+<word rank="100" original=" -FY " repl=" - FiscalYear " />
+<word rank="100" original=" - FY " repl=" - FiscalYear " />
+<word rank="100" original=" UNIV. " repl=" University " />
+<word rank="100" original=" UNIV " repl=" University " />
+<word rank="100" original=" GSR " repl=" Graduate Student Res " />
+<word rank="100" original=" -A " repl=" " />
+<word rank="100" original=" Programmer / Analyst " repl=" Programmer Analyst " />
+<word rank="100" original=" COMM " repl=" Communications " />
+<word rank="100" original=" REL " repl=" Relations " />
+<word rank="100" original=" FAC " repl=" Facilities " />
+<word rank="100" original=" MGT " repl=" Management " />
+<word rank="100" original=" MAINT " repl=" Maintenance " />
+<word rank="100" original=" MECH " repl=" Mechanic " />
+<word rank="100" original=" REL " repl=" Relations " />
+<word rank="100" original=" RSCH " repl=" Research " />
+<word rank="100" original=" SUP. " repl=" Supervisor " />
+<word rank="100" original=" FIN " repl=" Financial " />
+<word rank="100" original=" B / E / E " repl=" BizEconEng " />
+<word rank="100" original=" BUS / ECON / ENG " repl=" BizEconEng " />
+<word rank="100" original=" BUS / ENG " repl=" BizEconEng " />
+<word rank="102" original=" B / E " repl=" BizEconEng " />
+<word rank="100" original=" &amp; " repl="" />
+<word rank="100" original=" SUPR " repl=" Supervisor " />
+<word rank="100" original=" SVC " repl=" Services " />
+<word rank="100" original=" SYS " repl=" Systems " />
+<word rank="100" original=" - - " repl=" - " />
+<word rank="100" original=" PRO " repl=" Professor " />
+<word rank="100" original=" RETIR " repl=" Retirement " />
+<word rank="100" original=" IN RES " repl=" in Residence " />
+<word rank="100" original=" ACAD " repl=" Academic " />
+<word rank="100" original=" TCHN " repl=" Technician " />
+<word rank="100" original=" PUBL " repl=" Public " />
+<word rank="100" original=" INFO " repl=" Information " />
+<word rank="100" original=" TCHNO " repl=" Technologist " />
+<word rank="100" original=" HOSP " repl=" Hospital " />
+<word rank="100" original=" HOSP. " repl=" Hospital " />
+<word rank="100" original=" THER " repl=" Therapist " />
+<word rank="100" original=" CRD " repl=" Coordinator" />
+<word rank="100" original=" ASSIST. " repl=" Assistant " />
+<word rank="100" original=" INV " repl=" Investment " />
+<word rank="100" original=" PAT " repl=" Patient " />
+<word rank="101" original=" ASOC " repl=" Associate" />
+<word rank="100" original=" ACT " repl=" Acting" />
+<word rank="100" original=" TECH " repl=" Technician" />
+<word rank="100" original=" TECH. " repl=" Technician" />
+<word rank="100" original=" ASSOC. " repl="Associate " />
+<word rank="100" original=" VP " repl=" Vice Provost " />
+<word rank="100" original=" PRES " repl=" President " />
+<word rank="100" original=" ATH " repl=" Athletics " />
+<word rank="100" original=" ATHLETIC " repl=" Athletics " />
+<word rank="100" original=" EQUIP " repl=" Equipment " />
+<word rank="100" original=" FLD " repl=" Field " />
+<word rank="100" original=" ENGR " repl=" Engineer " />
+<word rank="100" original=" WK " repl=" Work " />
+<word rank="100" original=" WKR " repl=" Worker " />
+<word rank="100" original=" GEN " repl=" General " />
+<word rank="100" original=" CNSLR " repl=" Counselor " />
+<word rank="100" original=" ADMST " repl=" Administrative " />
+<word rank="100" original=" PHYSCN " repl=" Physician " />
+<word rank="100" original=" SCI " repl=" Scientist " />
+<word rank="100" original=" PROG " repl=" Program " />
+<word rank="100" original=" MC " repl=" Medical Center " />
+<word rank="100" original=" VST " repl=" Visiting" />
+<word rank="100" original=" AFF " repl=" Affairs " />
+<word rank="100" original=" OFF " repl=" Officer " />
+<word rank="100" original=" TUT " repl=" Tutor " />
+<word rank="100" original=" CERT " repl=" Certified " />
+<word rank="100" original=" SRA " repl=" Staff Research Associate " />
+<word rank="100" original=" VIS " repl=" Visiting " />
+<word rank="3" original="_____" repl="" />
+<word rank="4" original="____" repl="" />
+<word rank="5" original="___" repl="" />
+<word rank="2" original="_____ " repl="" />
+<word rank="100" original=" (FUNCTIONAL AREA) " repl=" " />
+<word rank="200" original=" FISCAL YR " repl=" Fiscal Year " />
+<word rank="300" original=" _ASSISTANT " repl=" Assistant " />
+
+<word rank="300" original=" NURSE , CLINICAL " repl=" Clinical Nurse " />
+<word rank="300" original=" STAFF RES " repl=" Staff Research " />
+<word rank="300" original=" II " repl=" 2 " />
+<word rank="300" original=" III " repl=" 3 " />
+<word rank="300" original=" IV " repl=" 4 " />
+<word rank="300" original=" V " repl=" 5 " />
+<word rank="300" original=" VI " repl=" 6 " />
+<word rank="300" original=" VII " repl=" 7 " />
+<word rank="300" original=" VIII " repl=" 8 " />
+<word rank="300" original=" I " repl=" 1 " />
+<word rank="300" original=" - - - - - " repl=" - " />
+<word rank="300" original=" RES " repl=" Research " />
+<word rank="300" original=" - GSHIP " repl="" />
+<word rank="300" original=" - NON - GSHIP " repl="" />
+<word rank="300" original=" ANALYST , ADMINISTRATIVE " repl=" Administrative Analyst " />
+<word rank="300" original=" NON - REP " repl=" NONREP " />
+<word rank="300" original=" PD " repl=" PerDiem " />
+
+</words>
+
+
